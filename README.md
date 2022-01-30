@@ -33,8 +33,3 @@
 
 <p float="center">
 <img src="https://github-readme-stats.vercel.app/api?username=harshalparmar&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=harshalparmar&show_icons=true&theme=dracula"/>
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" data-canonical-src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="250" height="160" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=harshalparmar&row=1&margin-w=15&theme=onedark)](https://github.com/harshalparmar)
-
