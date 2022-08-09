@@ -1,7 +1,7 @@
 > “The more you know, the more you realize you know nothing.”
 >                                               — Socrates
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Calibri&color=%2303FC30&center=true&vCenter=true&width=450&lines=Hi+There+%F0%9F%91%8B%2C+This+is+Harshal!+%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+(%E2%98%95%F0%9F%92%BB%F0%9F%92%A1%E2%9D%A4%EF%B8%8F))](#)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+%F0%9F%91%8B%2C+This+is+Harshal!+)](https://git.io/typing-svg)
 
 
 
