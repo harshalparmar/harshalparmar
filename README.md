@@ -10,7 +10,7 @@
 ---------------------------------------------------------------------------------
 ## Connect with me :
 
- [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/21harshalparmar/)
+ [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/avi.harshal/)
 
 
 ## ⚡ Technologies
@@ -31,7 +31,3 @@
 ![Atmega32](https://img.shields.io/badge/-Atmega32-black?style=flat-square&logo=atmega32)
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-blue?style=flat-square&logo=windows)
-
-
-<p float="center">
-<img src="https://github-readme-stats.vercel.app/api?username=harshalparmar&show_icons=true&theme=dracula" data-canonical-src="https://github-readme-stats.vercel.app/api?username=harshalparmar&show_icons=true&theme=dracula"/>
